@@ -26,4 +26,4 @@ if args.key and args.val:
 elif args.key:
     print(get_val(args.key))
 else:
-    print("No parametrs")
+    print("No parameters")
